@@ -1,0 +1,215 @@
+*{
+    box-sizing: inherit;
+}
+html{
+    box-sizing: border-box;
+    font-size: 12px;
+}
+body{
+background-color: hsl(270, 20%, 96%);
+}
+.box{
+    width: 250px;
+    height: 600px;
+background-image: linear-gradient( to bottom, hsl(293, 100%, 63%), hsl(264, 100%, 61%) ) ;
+    background-repeat:no-repeat;
+    border-radius: 200px;
+    margin-top: -100px;
+    margin-right: 50px;
+}
+.container{
+    width: 260px;
+    height: 550px;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin-top: -400px;
+    margin-left: 210px;
+}
+.box5{
+    width: 245px;
+    height: 70px;
+    background-image: linear-gradient( to bottom, hsl(293, 100%, 63%), hsl(264, 100%, 61%) ) ;
+    background-repeat:no-repeat;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 6px;
+}
+.box6{
+    width: 120px;
+    height: 20px;
+    background-color: white;
+    border-radius: 20px;
+    margin-left: 60px;
+}
+.box5 img{
+height: 30px;
+width: 30px;
+border-radius: 360px;
+margin-top: 5px;
+margin-left: 30px;
+}
+.phone{
+    width:243px;
+    height: 450px;
+    background-color: hsl(270, 20%, 96%);
+    margin-top: -15px;
+    margin-left: 8px;
+    border-radius: 10px;
+}
+.box5 h3{
+    color: hsl(270, 20%, 96%);
+    margin-left: 70px;
+    margin-top: -30px;
+}
+.box5 p{
+    margin-top: -20px;
+    margin-left: 70px;
+    color: hsl(293, 100%, 63%);
+}
+.grid{
+    display: flex;
+    flex-direction: column;
+    margin-left: 220px;
+    margin-top: -40px;
+}
+.box1{
+    width: 3px;
+    height: 3px;
+    background-color: white;
+    margin-top: 2px;
+}
+.box2{
+    width: 3px;
+    height: 3px;
+    background-color: white;
+    margin-top: 2px;
+}
+.box3{
+    width: 3px;
+    height: 3px;
+    background-color: white;
+    margin-top: 2px;
+}
+.first{
+margin-top: 45px;
+}
+h1{
+    width: 200px;
+    height: 45px;
+    background-color: hsl(278, 52%, 89%);
+    border-radius: 20px;
+    margin-top: 10px;
+}
+.first p{
+    margin-top: -55px;
+    margin-left: 7px;
+    color: hsl(276, 63%, 46%);
+}
+.second{
+margin-left: 80px;
+margin-top: -330px;
+}.second img{
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+}
+.second h2{
+    width: 170px;
+    height: 40px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+    margin-right: 60px;
+    margin-top: 5px;
+}
+.second p{
+    margin-top: -50px;
+    margin-left: 8px;
+}
+.second h3{
+    width: 120px;
+    height: 20px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+    margin-left: 40px;
+    margin-top: -20px;
+}
+.second span{
+    margin-top: -50px;
+    margin-left: 5px;
+}
+.third{
+    width: 200px;
+    height: 45px;
+    background-color: hsl(278, 52%, 89%);
+    border-radius: 20px;
+    margin-top: -10px;
+    margin-left: 10px;
+}
+.third p{
+    color: hsl(276, 63%, 46%);
+    margin-left: 8px;
+}
+.write{
+
+}
+.write h2{
+    margin-left: 550px;
+    margin-top: -380px;
+    color:  hsl(271, 36%, 24%);
+}
+.write p{
+    margin-left: 550px;
+    color:  hsl(270, 7%, 64%);
+}
+.fourth{
+margin-top: -5px;
+}
+.fourth button{
+    width: 200px;
+    height: 30px;
+    background-image: linear-gradient( to right, hsl(293, 100%, 63%), hsl(264, 100%, 61%) ) ;
+    background-repeat:no-repeat;
+    border-radius: 5px;
+    border: 0px solid white;
+    margin-top: 5px;
+}
+.fourth h5{
+    height: 15px;
+    width: 15px;
+    border: 1px solid hsl(293, 81%, 79%);
+    border-radius: 360px;
+    margin-top: 5px;
+}
+.fourth button p{
+    margin-top: -34px;
+    color: hsl(293, 72%, 90%);
+    margin-right: 60px;
+}
+.fourth button b{
+color: white;
+margin-left: 150px;
+margin-top: -33px;
+}
+.form{
+    
+}
+.form input{
+    width: 220px;
+    height: 30px;
+    border-radius: 20px;
+    background-color: white;
+    border: 0px solid white;
+    margin-top: 90px;
+}
+.form h6{
+    width: 25px;
+    height: 25px;
+    border-radius: 360px;
+    background-color: hsl(271, 36%, 24%);
+    margin-left: 180px;
+}
+.form p b{
+   margin-left: 190px;
+   margin-top: -40px; 
+}
